@@ -19,8 +19,8 @@ Features:
 
     
 Usage:
-1.	Open the Excel file.
-2.	The dashboard will automatically populate with the latest data.
+1.	Open the Excel file: FnP Sales Analysis Project.xlsx
+2.	Click on the Dashboard Sheet.
 3.	Interact with the filters and slicers to explore different aspects of the data.
 4.	Use the charts and tables to gain insights into sales performance.
 
