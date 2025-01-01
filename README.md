@@ -27,5 +27,4 @@ Usage:
    
 Contact:
 •	Badrinath Tamanna
-•	Mobile: +91-9022137985
 •	Email: Badrinath.tamanna2@gmail.com
