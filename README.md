@@ -1,4 +1,4 @@
-# FnP-Sales-Dashboard
+# FnP-Sales-Dashboard-Excel
 Interactive sales analysis dashboard for Ferns N Petals (FNP), built in Excel with visual insights into revenue, orders, and customer trends.
 
 FNP Sales Dashboard
