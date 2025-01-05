@@ -26,5 +26,6 @@ Usage:
 
    
 Contact:
-•	Badrinath Tamanna
-•	Email: Badrinath.tamanna2@gmail.com
+Badrinath Tamanna
+LinkedIn: www.linkedin.com/in/badrinath-tamanna
+Email: badrinath.tamanna2@gmail.com
